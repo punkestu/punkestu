@@ -4,18 +4,22 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Bima Pangestu | Me</title>
-    <link rel="shortcut icon" href="res/logo.svg" type="image/x-icon">
+    <link rel="shortcut icon" href="res/logo.svg" type="image/x-icon" />
     <script src="https://cdn.tailwindcss.com"></script>
   </head>
   <body>
     <div id="body" class="h-screen w-screen overflow-y-scroll">
-      <section id="hero" class="h-screen flex items-center gap-x-8 py-4">
-        <div
-          class="flex-grow h-full bg-blue-500 flex items-center justify-center rounded-e-3xl"
-        >
-          <img src="res/logo.png" class="h-1/2" alt="" srcset="" />
+      <section id="hero" class="lg:flex items-stretch gap-x-8 pb-4">
+        <div class="h-screen lg:py-4 flex-grow ">
+          <div
+            class="h-full bg-blue-500 flex items-center justify-center lg:rounded-e-3xl"
+          >
+            <img src="res/logo.png" class="h-1/2" alt="" srcset="" />
+          </div>
         </div>
-        <div>
+        <div
+          class="text-center flex flex-col justify-center mt-4 lg:mt-0 lg:text-left"
+        >
           <h1 class="text-4xl font-medium pe-3">
             Hi!👋️ <br />
             <span>I am Bima Pangestu</span> <br />
@@ -26,9 +30,9 @@
         </div>
       </section>
       <section id="bio" class="py-4 flex items-stretch gap-4">
-        <div class="ps-4">
+        <div class="px-4 lg:ps-4">
           <h1 class="text-3xl font-semibold">Who am I?🤔️</h1>
-          <p class="mt-4 text-lg">
+          <p class="mt-4 text-lg text-center lg:text-left">
             Hi there! you can call me <span class="font-bold">Bima</span>, a
             computer science student at Universitas Jember. Ever since I was a
             kid, I've been drawn to the enchanting world of technology. There's
@@ -37,27 +41,33 @@
             Challenges are like fuel for my passion, and I approach them with
             unwavering enthusiasm and determination.
           </p>
-          <p class="text-lg text-slate-700">#Go #Nodejs #Laravel</p>
+          <p class="text-lg text-slate-700 text-center">#Go #Nodejs #Laravel</p>
         </div>
         <div
-          class="w-1/3 bg-blue-500 rounded-s-3xl flex items-center justify-center p-6"
+          class="hidden w-1/3 bg-blue-500 rounded-s-3xl lg:flex items-center justify-center p-6"
         >
           <img src="res/logo.png" class="h-2/3" alt="" />
         </div>
       </section>
       <hr class="border-2 mx-4 my-6" />
-      <section class="flex w-full justify-center items-center gap-6 py-4">
-        <div class="py-2 flex flex-col gap-6">
+      <section class="flex flex-col lg:flex-row w-full justify-center items-center gap-6 py-4 px-4 lg:px-0">
+        <div class="py-2 flex items-center flex-col gap-6">
           <h1 class="text-3xl font-semibold">Visit my Github😎️</h1>
           <div class="w-1/2 rounded-full border-4 border-blue-500 p-2">
             <img
-                  class="rounded-full"
+              class="rounded-full"
               src="https://avatars.githubusercontent.com/u/39290636?v=4"
             />
           </div>
-          <a href="https://github.com/punkestu" class="bg-blue-500 w-1/2 text-center p-2 text-white font-bold rounded-lg hover:bg-blue-700">My Profile &raquo;</a>
+          <a
+            href="https://github.com/punkestu"
+            class="bg-blue-500 w-1/2 text-center p-2 text-white font-bold rounded-lg hover:bg-blue-700"
+            >My Profile &raquo;</a
+          >
         </div>
-        <div class="flex w-1/3 flex-col items-center gap-y-2 p-4 bg-blue-500 rounded-xl">
+        <div
+          class="flex lg:w-1/3 flex-col items-center gap-y-2 p-4 bg-blue-500 rounded-xl"
+        >
           <img
             class="w-full"
             src="https://github-readme-stats-eight-theta.vercel.app/api?username=punkestu&show_icons=true&include_all_commits=true&count_private=true"
