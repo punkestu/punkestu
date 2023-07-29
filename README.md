@@ -35,6 +35,11 @@
   <a href="https://github.com/punkestu/hello-kafka"><ins>Kafka</ins></a>
 </div>
 
+<h3 align="center">Design Pattern</h3>
+<div align="center">
+  <a href="https://github.com/punkestu/design-pattern/tree/master/factory-method"><ins>Factory Method</ins></a>
+</div>
+
 <h3 align="center">GitHub Analytics</h3>
 <p align="center">
 <a href="https://github.com/punkestu">
