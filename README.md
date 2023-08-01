@@ -38,6 +38,10 @@
 <h3 align="center">Design Pattern</h3>
 <div align="center">
   <a href="https://github.com/punkestu/design-pattern/tree/master/factory-method"><ins>Factory Method</ins></a>
+  <a href="https://github.com/punkestu/design-pattern/tree/master/abstract-factory"><ins>Abstract Factory</ins></a>
+  <a href="https://github.com/punkestu/design-pattern/tree/master/builder"><ins>Builder</ins></a>
+  <a href="https://github.com/punkestu/design-pattern/tree/master/prototype"><ins>Prototype</ins></a>
+  <a href="https://github.com/punkestu/design-pattern/tree/master/singleton"><ins>Singleton</ins></a>
 </div>
 
 <h3 align="center">GitHub Analytics</h3>
