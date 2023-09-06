@@ -1,7 +1,7 @@
 <h1 align="right">Bima Pangestu</h1>
 <p align="right">NodeJS | GoLang | Laravel</p>
 
-<h3 align="center">I am or I want to be</h3>
+<h3 align="center">I am / I want to be</h3>
 <p align="center">Computer Science at the University of Jember &rarr; Backend + DevOps Enthusiast &rarr; Software Designer</p>
 
 <h3 align="center">Skills</h3>
