@@ -1,8 +1,7 @@
 <h1 align="right">Bima Pangestu</h1>
-<p align="right">NodeJS | GoLang | Laravel</p>
+<p align="right">NodeJS | GoLang | Rust</p>
 
-<h3 align="center">I am / I want to be</h3>
-<p align="center">Computer Science at the University of Jember &rarr; Backend + DevOps Enthusiast &rarr; Software Designer</p>
+<p align="center">I am Backend and Low level enthusiast</p>
 
 <h3 align="center">Skills</h3>
 <p align="center">
@@ -68,4 +67,4 @@
 
 -----
 
-Last Edited on: 14/07/2023
+Last Edited on: 29/11/2023
