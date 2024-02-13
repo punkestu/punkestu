@@ -1,5 +1,5 @@
 <h1 align="right">Bima Pangestu</h1>
-<p align="right">NodeJS | Typescript | Golang</p>
+<p align="right">NodeJS | Rust | Golang</p>
 
 <p align="center">I am Backend and Low level programming enthusiast</p>
 
@@ -24,30 +24,6 @@
   <img src="https://img.shields.io/badge/docker-00599C?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
-<h3 align="center">Technology</h3>
-<div align="center">
-  <a href="https://github.com/punkestu/hello-minio"><ins>Minio</ins></a>
-  <a href="https://github.com/punkestu/hello-oauth"><ins>OAuth</ins></a>
-  <a href="https://github.com/punkestu/hello-grpc"><ins>gRPC</ins></a>
-  <a href="https://github.com/punkestu/hello-graphql"><ins>GraphQL</ins></a>
-  <a href="https://github.com/punkestu/hello-redis"><ins>Redis</ins></a>
-  <a href="https://github.com/punkestu/hello-websocket"><ins>WebSocket</ins></a>
-  <a href="https://github.com/punkestu/hello-raylib"><ins>RayLib</ins></a>
-  <a href="https://github.com/punkestu/hello-kafka"><ins>Kafka</ins></a>
-  <a href="https://github.com/punkestu/hello-gorm"><ins>GORM</ins></a>
-  <a href="https://github.com/punkestu/hello-triangle"><ins>OpenGL</ins></a>
-  <a href="https://github.com/punkestu/hello-htmx"><ins>HTMX</ins></a>
-</div>
-
-<h3 align="center">Design Pattern</h3>
-<div align="center">
-  <a href="https://github.com/punkestu/design-pattern/tree/master/factory-method"><ins>Factory Method</ins></a>
-  <a href="https://github.com/punkestu/design-pattern/tree/master/abstract-factory"><ins>Abstract Factory</ins></a>
-  <a href="https://github.com/punkestu/design-pattern/tree/master/builder"><ins>Builder</ins></a>
-  <a href="https://github.com/punkestu/design-pattern/tree/master/prototype"><ins>Prototype</ins></a>
-  <a href="https://github.com/punkestu/design-pattern/tree/master/singleton"><ins>Singleton</ins></a>
-</div>
-
 <h3 align="center">GitHub Analytics</h3>
 <p align="center">
 <a href="https://github.com/punkestu">
@@ -68,4 +44,4 @@
 
 -----
 
-Last Edited on: 06/12/2023
+Last Edited on: 13/02/2024
