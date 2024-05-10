@@ -1,7 +1,7 @@
 <h1 align="right">Bima Pangestu</h1>
 <p align="right">NodeJS | Rust | Golang</p>
 
-<p align="center">I am Backend and Low level programming enthusiast</p>
+<p align="center">I am Programmer 💻️</p>
 
 <h3 align="center">Skills</h3>
 <p align="center">
