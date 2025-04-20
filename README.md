@@ -1,5 +1,5 @@
 <h1 align="center">Bima Pangestu</h1>
-<p align="center">Fullstack | React | Laravel | Javascript</p>
+<p align="center">Fullstack apa aja sikat udah jago juga</p>
 
 <p align="center"><i>"Ngoding ngoding ngoding tipes 💻️"</i></p>
 
@@ -12,4 +12,4 @@
 
 -----
 
-Last Edited on: 01/09/2024
+Last Edited on: 20/04/2025
